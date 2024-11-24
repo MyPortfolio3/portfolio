@@ -16,7 +16,7 @@ export default function Portfolio() {
       title: "Task Management App",
       description: "Developed a collaborative task management application",
       tags: ["React", "Firebase", "Tailwind"],
-      link: "/task-manager"
+      link: "/portfolio/task-manager"
     },
     {
       title: "Data Visualization Dashboard",
